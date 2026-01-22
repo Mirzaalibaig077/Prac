@@ -1,2 +1,3 @@
-console.log("hiiiiiiiii")
-prints  jssh                            
+console.log("hiiiiiiiii");
+console.log("helo word");
+console.log("mirza ali");
